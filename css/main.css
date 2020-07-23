@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+}
+h1 {
+    color: brown;
+    font-style: italic;
+    margin-left: 30px;
+}
+h2 {
+    color: chocolate;
+    font-style:oblique;
+    margin-left: 30px;
+    
+}
+p {
+    color: darkblue;
+    font-size: 20px;
+    margin-left: 30px;
+}
